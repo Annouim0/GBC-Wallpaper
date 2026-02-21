@@ -6,7 +6,7 @@ Forked from OriginalCube:https://github.com/OriginalCube/Bocchi-Wallpaper.
 
 
 ##  Steam Workshop Link / Steam创意工坊链接:
-[ガールズバンドクライGirls Band Cry](https://steamcommunity.com/sharedfiles/filedetails/?id=)
+[ガールズバンドクライGirls Band Cry](https://steamcommunity.com/sharedfiles/filedetails/?id=3422583163)
 
 ##  SongData JSON structure / SongData JSON 格式
 ```
