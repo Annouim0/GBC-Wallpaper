@@ -216,5 +216,82 @@
 		"clockTextShadow": "3px 3px rgba(217,198,176,.7)",
 		"lineColor": "rgba(217,198,176,.9)",
 		"playerTextShadow": "2px 2px rgba(217,198,176,.7)"
+	},
+	{
+		"id": 21,
+		"name": "若是湛蓝",
+		"nameOriginal": "碧いif",
+		"nameRomanized": "Aoi if",
+		"album": "若是湛蓝",
+		"backgroundColor": "#9e5968",
+		"clockTextShadow": "3px 3px rgba(213, 183, 185,.7)",
+		"lineColor": "rgba(213, 183, 185,.9)",
+		"playerTextShadow": "2px 2px rgba(213, 183, 185,.7)"
+	},
+	{
+		"id": 22,
+		"name": "知晓无知的我",
+		"nameOriginal": "無知のち私",
+		"nameRomanized": "Muchi no Chi Watashi",
+		"album": "知晓无知的我",
+		"backgroundColor": "#3b5383",
+		"clockTextShadow": "3px 3px rgba(100, 125, 173,.7)",
+		"lineColor": "rgba(100, 125, 173,.9)",
+		"playerTextShadow": "2px 2px rgba(100, 125, 173,.7)"
+	},
+	{
+		"id": 23,
+		"name": "渴望、忧郁",
+		"nameOriginal": "渇く、憂う",
+		"nameRomanized": "Kawaku, Ureu",
+		"album": "渴望、忧郁",
+		"backgroundColor": "#4f7050",
+		"clockTextShadow": "3px 3px rgba(148, 146, 138,.7)",
+		"lineColor": "rgba(148, 146, 138,.9)",
+		"playerTextShadow": "2px 2px rgba(148, 146, 138,.7)"
+	},
+	{
+		"id": 24,
+		"name": "吹灭的灯火",
+		"nameOriginal": "吹き消した灯火",
+		"nameRomanized": "Fukikeshita Tomosibi",
+		"album": "吹灭的灯火",
+		"backgroundColor": "#6b4655",
+		"clockTextShadow": "3px 3px rgba(208, 117, 153,.7)",
+		"lineColor": "rgba(208, 117, 153,.9)",
+		"playerTextShadow": "2px 2px rgba(208, 117, 153,.7)"
+	},
+	{
+		"id": 25,
+		"name": "好好活下去",
+		"nameOriginal": "生きて生きてゆく",
+		"nameRomanized": "Ikite Ikite Yuku",
+		"album": "好好活下去",
+		"backgroundColor": "#3f3735",
+		"clockTextShadow": "3px 3px rgba(217,198,176,.7)",
+		"lineColor": "rgba(217,198,176,.9)",
+		"playerTextShadow": "2px 2px rgba(217,198,176,.7)"
+	},
+	{
+		"id": 26,
+		"name": "胆小的白夜",
+		"nameOriginal": "臆病な白夜",
+		"nameRomanized": "Okubyou na byakya",
+		"album": "胆小的白夜",
+		"backgroundColor": "#5c4a85",
+		"clockTextShadow": "3px 3px rgba(183, 145, 194,.7)",
+		"lineColor": "rgba(183, 145, 194,.9)",
+		"playerTextShadow": "2px 2px rgba(183, 145, 194,.7)"
+	},
+	{
+		"id": 27,
+		"name": "最后的祈祷",
+		"nameOriginal": "最期の禱り",
+		"nameRomanized": "Saigo no Inori",
+		"album": "最后的祈祷",
+		"backgroundColor": "#89434a",
+		"clockTextShadow": "3px 3px rgba(214, 170, 175,.7)",
+		"lineColor": "rgba(214, 170, 175,.9)",
+		"playerTextShadow": "2px 2px rgba(214, 170, 175,.7)"
 	}
 ]
